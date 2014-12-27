@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArduinoHMI.iml" filepath="$PROJECT_DIR$/ArduinoHMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytemplatelibrary/mytemplatelibrary.iml" filepath="$PROJECT_DIR$/mytemplatelibrary/mytemplatelibrary.iml" />
     </modules>
   </component>
 </project>
